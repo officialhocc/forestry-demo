@@ -1,0 +1,11 @@
+---
+footer:
+- identifier: _posts
+  url: "/"
+  weight: 1
+  title: Posts
+navigation:
+- identifier: _posts
+  url: "/"
+  weight: 1
+  title: Posts
